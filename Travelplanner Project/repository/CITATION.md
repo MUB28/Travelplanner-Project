@@ -1,0 +1,6 @@
+- Author(s): Mubarak Youssouf
+- Date: 21/01/2020
+- Title of program/source code: Travelpanner
+- Code version: "3.7"
+- Type (e.g. computer program, source code): Python
+- Web address or publisher (e.g. program publisher, URL)

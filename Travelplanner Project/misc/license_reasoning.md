@@ -1,0 +1,1 @@
+I used a General Public License because becuase not only is it free but it gives me the freedom to share and change all versions of a program. It also allows me to distribute copies of my software. if I wish to, I could charge people for my copies aswell.
